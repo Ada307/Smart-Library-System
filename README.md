@@ -14,5 +14,3 @@ MySQL database connectivity through **JDBC**
 Java (Swing GUI)
 JDBC + MySQL
 OOP concepts
-
-### signoff
